@@ -1,0 +1,78 @@
+/* contact module */
+.module-contact .contact-message {
+	padding: .5em;
+	border-radius: 5px;
+}
+.module-contact span.required {
+	color: red;
+}
+.module-contact .builder-contact-field {
+	margin: .3em 0 1.2em;
+}
+.module-contact .control-label {
+	padding-bottom: .5em;
+	display: inline-block;
+}
+.module-contact .builder-contact .builder-contact-field-send i {
+	display: none;
+}
+.module-contact .builder-contact.sending .builder-contact-field-send i {
+	display: inline-block;
+}
+.module-contact .builder-contact-field-send {
+	margin-top: 1em;
+}
+.module-contact .builder-contact-fields {
+	position: relative;
+}
+
+/* Style 2 */
+.module-contact.contact-style2 .builder-contact-field-email,
+.module-contact.contact-style2 .builder-contact-field-name,
+.module-contact.contact-style2 .builder-contact-field-subject {
+    width: 32%;
+    float: left;
+    margin-right: 1%;
+}
+.module-contact.contact-style2 .builder-contact-field-message {
+	clear: both;
+}
+
+/* Style 3 */
+.module-contact.contact-style3 .builder-contact-field-email,
+.module-contact.contact-style3 .builder-contact-field-name,
+.module-contact.contact-style3 .builder-contact-field-subject {
+	width: 50%;
+}
+.module-contact.contact-style3 .builder-contact-field-message {
+	width: 45%;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+/* recaptcha */
+.module-contact #recaptcha_area {
+	display: inline-block; /* fix alignment set by the module */
+}
+/*
+     FILE ARCHIVED ON 08:56:14 Nov 10, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:29:29 Feb 18, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  load_resource: 2186.39
+  esindex: 0.015
+  RedisCDXSource: 36.716
+  exclusion.robots.policy: 0.357
+  captures_list: 290.967
+  PetaboxLoader3.resolve: 49.383
+  LoadShardBlock: 226.158 (3)
+  exclusion.robots: 0.373
+  PetaboxLoader3.datanode: 2210.431 (4)
+  CDXLines.iter: 23.902 (3)
+*/

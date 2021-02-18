@@ -1,0 +1,150 @@
+/* Themify Customize Styling */
+body {	
+	background-color: #0076a7;
+	font-family:Open Sans; 
+}
+#sidebar {	
+	padding-top: 3%; 
+}
+#headerwrap {	
+	border-top: none;
+	border-right: none;
+	border-bottom: 3px solid #20566d;
+	border-left: none; 
+}
+#site-description {	display: none; 
+}
+#main-nav a {	
+	border: 1px solid #022a3b; 
+}
+#main-nav a, .fixed-header #main-nav a {	
+	color: #ffffff; 
+}
+#horizontal-menu {	
+	border: none; 
+}
+#horizontal-menu a {	
+	color: #f0f4f5;
+	background-color: transparent;
+	border: 1px solid #022a3b;
+	margin-right: 15px; 
+}
+#horizontal-menu a:hover {	
+	background-color: #022a3b;
+	color: #ffffff; 
+}
+.post {	
+	padding-top: 3%; 
+}
+.post-title, .post-title a {		text-align:center;
+	color: #f1872c; 
+}
+.page-title {	
+	padding-top: 2%; 
+}
+#footerwrap {	
+	background-color: #0076a7; 
+}
+#footer {	
+	color: #ffffff; 
+}
+#footer a {	
+	color: #ffffff; 
+}
+
+/* Themify Custom CSS */
+#headerwrap{
+  display: none;
+}
+#headerwrap {
+  background: rgba(255, 255, 255, 0.7);
+}
+@media (max-width: 480px) {
+                                .home #headerwrap, .home #header {
+  height: 310px;
+    }
+    .backstretch,    .backstretch img {
+  height: 270px !important;
+max-width: 100% !important;
+    }
+    .backstretch img {
+  width: 480px !important;
+left: 0 !important;
+    }
+}
+@media screen and (max-width: 480px) {
+                    .home #sliderwrap {
+  display: none !important;
+}
+}
+.semi-trans {
+  background-color: rgba(255,255,255,0.7) !important;
+}
+.horizontal-menu a {
+  padding: 4px 20px;
+}
+.reasons {
+  position:relative;
+padding:20px 30px 8px;
+background:url(http://web.archive.org/web/20171110101826im_/https://www.trikopeyki.ru/img/bg-reasons.gif) repeat;
+ }
+.reasons .title {
+  float:left;
+height:51px;
+margin:0 -40px;
+ }
+.reasons .title .l {
+  float:left;
+width:22px;
+height:51px;
+background:url(http://web.archive.org/web/20171110101826im_/https://www.trikopeyki.ru/img/bg-reasons-title.png) left top no-repeat;
+ }
+.reasons .title .c {
+  float:left;
+padding:7px 30px 0 ;
+height:44px;
+color:#FFFFFF;
+background:url(http://web.archive.org/web/20171110101826im_/https://www.trikopeyki.ru/img/bg-reasons-title.png) left bottom repeat-x;
+ }
+.reasons .title .r {
+  float:left;
+width:22px;
+height:51px;
+background:url(http://web.archive.org/web/20171110101826im_/https://www.trikopeyki.ru/img/bg-reasons-title.png) right -51px no-repeat;
+ }
+.reasons h2 {
+  padding-bottom:6px;
+font-size:20px;
+color:#fff;
+ }
+.reasosn p {
+  padding-bottom:22px;
+ }
+.semitransp {
+  background: rgba(255, 255, 255, 0.8);
+}
+.back-top a:before{
+  color:white;
+}
+
+/*
+     FILE ARCHIVED ON 10:18:26 Nov 10, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:29:12 Feb 18, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  load_resource: 1057.223
+  RedisCDXSource: 0.739
+  exclusion.robots: 0.358
+  LoadShardBlock: 2149.785 (3)
+  PetaboxLoader3.resolve: 28.8
+  exclusion.robots.policy: 0.341
+  PetaboxLoader3.datanode: 3168.253 (4)
+  esindex: 0.015
+  captures_list: 2179.658
+  CDXLines.iter: 24.911 (3)
+*/
